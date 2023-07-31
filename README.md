@@ -25,7 +25,6 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/umairrrkhan/Building a Calories Burn Predictor with XGBoost and Python.git
-cd calories-burn-predictor
 ```
 - Install the required dependencies:
 ```bash
