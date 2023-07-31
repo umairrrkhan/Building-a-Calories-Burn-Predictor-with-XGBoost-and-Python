@@ -13,8 +13,6 @@
 ## Overview
 This project aims to build a Calories Burn Predictor using XGBoost, a powerful machine learning algorithm. By analyzing fitness data and applying XGBoost regression, the model can predict the number of calories burned during various exercises.
 
-![Calories Burn Predictor](images/calories_burn_predictor.jpg)
-
 ## Project Description
 In this project, we use Python along with the pandas, numpy, matplotlib, seaborn, and scikit-learn libraries to perform data manipulation, visualization, and model training. The XGBoost library is utilized to create a robust predictive model for estimating calories burned.
 
